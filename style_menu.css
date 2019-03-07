@@ -1,36 +1,43 @@
 img {
-     margin :50px;
-}
-.homeimg {
-  padding-left : 500px
+
 }
 
 a {
   text-decoration: none;
 }
 
-#article {
+h2 {
+  margin-bottom: 50px;
+  margin-right: 400px ;
+  text-align : center;
+  color : #00adef ;
+}
+
+h3 {
+    padding-left : 150px ;
+}
+#article2 {
  margin-bottom: 250px;
- text-align : center;
  display: block;
  width: 800px;
  padding-left : 150px ;
 
-
 }
+
 #menu
  {
  text-align : center;
  background-color : white;
  height : 50px ;
- padding-top : 50px ;
- padding-bottom: 20px ;
+ padding-top : 20px ;
+ padding-bottom: 50px ;
  margin-top : 80px ;
-
- font : 180% black;
+ padding-right: 500px ;
+ font : 180% ;
  word-spacing : 50px ;
 
 }
+
 body {
  background-color :#f0fafe;
 }
