@@ -1,0 +1,38 @@
+img {
+     margin :50px;
+}
+.homeimg {
+  padding-left : 500px
+}
+
+a {
+  text-decoration: none;
+}
+#article {
+ margin-bottom: 250px;
+ text-align : center;
+ display: block;
+ width: 800px;
+ padding-left : 150px ;
+
+
+}
+#menu
+ {
+ text-align : center;
+ background-color : white;
+ height : 50px ;
+ padding-top : 50px ;
+ padding-bottom: 20px ;
+ margin-top : 80px ;
+
+ font : 180% black;
+ word-spacing : 50px ;
+
+}
+body {
+ background-color :#f0fafe;
+}
+footer {
+ border-top : 0.5px solid gray;
+}
